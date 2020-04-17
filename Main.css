@@ -1,0 +1,35 @@
+h1 {
+    border-width: 10px;
+    border-color: rgb(43, 174, 226);
+    /*text-decoration: underline;*/
+    font-size: 42px;
+    padding: 3;
+    margin: 3;
+    font: black;
+    font-family: serif;
+    text-indent: 23%;
+}
+
+h2 {
+    border-width: 10px;
+    border-color: rgb(43, 174, 226);
+    /*text-decoration: underline;*/
+    font-size: 42px;
+    padding: 3;
+    margin: 3;
+    font: black;
+    font-family: serif;
+    text-indent: .5;
+}
+
+h3 {
+    border-width: 10px;
+    border-color: rgb(43, 174, 226);
+    /*text-decoration: underline;*/
+    font-size: 25px;
+    padding: 3;
+    margin: 3;
+    font: black;
+    font-family: serif;
+    text-indent: .5%;
+}
